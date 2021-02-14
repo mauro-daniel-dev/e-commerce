@@ -16,5 +16,5 @@
         "views/product_view.xml",
         "views/website_sale_template.xml",
     ],
-    "installable": False,
+    "installable": True,
 }
